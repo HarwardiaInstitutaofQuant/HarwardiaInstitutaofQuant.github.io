@@ -1,0 +1,1 @@
+Upload all files in this folder to the root of your GitHub Pages repository. Keep your existing image filenames and the social media folder exactly as shown.
